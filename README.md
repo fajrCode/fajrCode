@@ -17,7 +17,7 @@ A 24 y.o muslim man that interest in technology.
 </a>
 </p>
 
-<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9100d753-02ac-4ed8-ac98-5e45d6deecad/depxc3c-2c74dc75-552f-4b74-9d49-a01ec4c8ea90.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzkxMDBkNzUzLTAyYWMtNGVkOC1hYzk4LTVlNDVkNmRlZWNhZFwvZGVweGMzYy0yYzc0ZGM3NS01NTJmLTRiNzQtOWQ0OS1hMDFlYzRjOGVhOTAuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ACqc7kQ3zva5d9HmQ6rAM2TWKQ_6KA_YgK4pzBCzpbo">
+<img src="https://www.sean-lloyd.com/assets/static/20210303-dino-game-6.8cbd2dc.4f377d819706628d9af0659786334303.gif">
 
 <!--
 **fajrCode/fajrCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
