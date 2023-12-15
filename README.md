@@ -13,11 +13,11 @@ A 24 y.o muslim man that interest in technology.
 <a href="https://github.com/fajrCode">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fajrCode&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fajrCode&layout=compact&langs_count=8&theme=vue-dark"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=fajrCode&theme=vue-dark&hide_border=true"/>
+<!--   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=fajrCode&theme=vue-dark&hide_border=true"/> -->
 </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/55116927/188319849-9d4fed2d-497e-4ce3-9f06-8d3843f05cb4.gif">
+<img src="https://i.makeagif.com/media/4-15-2017/fwJfBq.gif">
 
 <!--
 **fajrCode/fajrCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
