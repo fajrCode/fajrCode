@@ -16,11 +16,10 @@ A 24 y.o muslim man that interest in technology.
 <!--   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=fajrCode&theme=vue-dark&hide_border=true"/> -->
 </a>
 </p>
-
+----
 <!-- <img src="https://www.sean-lloyd.com/assets/static/20210303-dino-game-6.8cbd2dc.4f377d819706628d9af0659786334303.gif"> -->
 <!-- <img src="https://www.sean-lloyd.com/assets/static/20210303-dino-game-2.8cbd2dc.91351d5ac9153c4fc6ede3603c6fd687.gif"> -->
 <img src="https://www.sean-lloyd.com/assets/static/20210303-dino-game-5.8cbd2dc.ebd0b7a5a9f7f1ec142b7662189d3a79.gif">
-<img src="https://luungoc2005.github.io/static//271fdad092161b2156e5cad8e5925a6b/chrome-dino-game-reinforcement-learning-observation-agent.gif">
 
 <!--
 **fajrCode/fajrCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
