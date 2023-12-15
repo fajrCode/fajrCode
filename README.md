@@ -17,7 +17,7 @@ A 24 y.o muslim man that interest in technology.
 </a>
 </p>
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjkwaHVveXdlODRzejcxanVsbmFnN2EyNmdqNXEwbmlnZjRqZDZibyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vrxxqQbyRxYi6scCjT/giphy.gif">
+<img src="https://user-images.githubusercontent.com/55116927/188319849-9d4fed2d-497e-4ce3-9f06-8d3843f05cb4.gif">
 
 <!--
 **fajrCode/fajrCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
