@@ -28,10 +28,10 @@ Let's learn or build something useful together.
 </a>
 </div>
 
-<hr>
+<!-- <hr>
 <div align=center>
   <img src="./assets/images/vcard.png" width="25%">
-</div>
+</div> -->
 
 <hr>
 <div align=center>
