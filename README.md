@@ -30,7 +30,7 @@ Let's learn or build something useful together.
 
 <hr>
 <div align=center>
-  <img src="./assets/images/vcard.png" height="70">
+  <img src="./assets/images/vcard.png" height="45%">
 </div>
 
 <hr>
