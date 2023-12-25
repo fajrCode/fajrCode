@@ -10,18 +10,19 @@ Let's learn or build something useful together.
 - 🌱 I’m Currently focusing to Learn Website Development especially Back-end Development;
 ----
 ### 📊 Github Stats
-<p align="left">
+<div align="left">
 <a href="https://github.com/fajrCode">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fajrCode&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fajrCode&layout=compact&langs_count=8&theme=vue-dark"/>
 <!--   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=fajrCode&theme=vue-dark&hide_border=true"/> -->
 </a>
-</p>
+</div>
 <hr>
+<img align="middle" src="https://www.sean-lloyd.com/assets/static/20210303-dino-game-5.8cbd2dc.ebd0b7a5a9f7f1ec142b7662189d3a79.gif">
 <!-- <img src="https://www.sean-lloyd.com/assets/static/20210303-dino-game-6.8cbd2dc.4f377d819706628d9af0659786334303.gif"> -->
 <!-- <img src="https://www.sean-lloyd.com/assets/static/20210303-dino-game-2.8cbd2dc.91351d5ac9153c4fc6ede3603c6fd687.gif"> -->
-<img src="https://www.sean-lloyd.com/assets/static/20210303-dino-game-5.8cbd2dc.ebd0b7a5a9f7f1ec142b7662189d3a79.gif">
-
+<hr>
+<img align="middle" src="./assets/images/vcard.png">
 <!--
 **fajrCode/fajrCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
