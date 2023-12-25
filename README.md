@@ -12,15 +12,11 @@ Let's learn or build something useful together.
 - 💻 I'm Currently Cloud Computing Cohort at [Bangkit Academy](https://grow.google/intl/id_id/bangkit/?tab=cloud-computing) Batch 2 2023;
 - 🌱 I’m Currently focusing to Learn Website Development especially Back-end Development;
 
----
-
-### ⚡ Languages and Tools
-
 <div align="center">
  <img src="https://www.svgrepo.com/show/349474/php.svg" height="50"><img src="https://www.svgrepo.com/show/355081/js.svg" height="50"><img src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" height="50"><img src="https://www.svgrepo.com/show/374035/reactts.svg" height="50"><img src="https://www.svgrepo.com/show/355133/mysql.svg" height="50"><img src="https://www.svgrepo.com/show/353805/google-cloud.svg" height="50"><img src="https://www.svgrepo.com/show/452192/docker.svg" height="50">
 </div>
 
-<hr>
+---
 
 ### 📊 Github Stats
 
@@ -34,12 +30,12 @@ Let's learn or build something useful together.
 
 <hr>
 <div align=center>
-  <img src="./assets/images/vcard.png">
+  <img src="./assets/images/vcard.png" height="70">
 </div>
 
 <hr>
 <div align=center>
-  <img src="https://www.sean-lloyd.com/assets/static/20210303-dino-game-5.8cbd2dc.ebd0b7a5a9f7f1ec142b7662189d3a79.gif" height="50">
+  <img src="https://www.sean-lloyd.com/assets/static/20210303-dino-game-5.8cbd2dc.ebd0b7a5a9f7f1ec142b7662189d3a79.gif">
 </div>
 <!-- <img src="https://www.sean-lloyd.com/assets/static/20210303-dino-game-6.8cbd2dc.4f377d819706628d9af0659786334303.gif"> -->
 <!-- <img src="https://www.sean-lloyd.com/assets/static/20210303-dino-game-2.8cbd2dc.91351d5ac9153c4fc6ede3603c6fd687.gif"> -->
