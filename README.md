@@ -3,14 +3,14 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=fajrCode)
 [![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/fajri-arvandi/)
 
-A 24 y.o muslim man that interest in technology, nice to meet you.
+A 24-year-old muslim man that interested in technology, nice to meet you.
 Let's learn or build something useful together.
 
 ### 📋 Current Activity
 
 - 🎓 I’m Pursuing a Bachelor's Degree in Informatics Engineering;
 - 💻 I'm Currently Cloud Computing Cohort at [Bangkit Academy](https://grow.google/intl/id_id/bangkit/?tab=cloud-computing) Batch 2 2023;
-- 🌱 I’m Currently focusing to Learn Website Development especially Back-end Development;
+- 🌱 I’m Currently focusing on Learn Website Development, especially Back-end Development;
 
 <div align="center">
  <img src="https://www.svgrepo.com/show/349474/php.svg" height="50"><img src="https://www.svgrepo.com/show/355081/js.svg" height="50"><img src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" height="50"><img src="https://www.svgrepo.com/show/374035/reactts.svg" height="50"><img src="https://www.svgrepo.com/show/355133/mysql.svg" height="50"><img src="https://www.svgrepo.com/show/353805/google-cloud.svg" height="50"><img src="https://www.svgrepo.com/show/452192/docker.svg" height="50">
