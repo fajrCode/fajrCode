@@ -12,8 +12,17 @@ Let's learn or build something useful together.
 - 💻 I'm Currently Cloud Computing Cohort at [Bangkit Academy](https://grow.google/intl/id_id/bangkit/?tab=cloud-computing) Batch 2 2023;
 - 🌱 I’m Currently focusing on Learn Website Development, especially Back-end Development;
 
+<br>
 <div align="center">
- <img src="https://www.svgrepo.com/show/349474/php.svg" height="50"><img src="https://www.svgrepo.com/show/355081/js.svg" height="50"><img src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" height="50"><img src="https://www.svgrepo.com/show/374035/reactts.svg" height="50"><img src="https://www.svgrepo.com/show/355133/mysql.svg" height="50"><img src="https://www.svgrepo.com/show/353805/google-cloud.svg" height="50"><img src="https://www.svgrepo.com/show/452192/docker.svg" height="50">
+ <code><img src="https://www.svgrepo.com/show/349474/php.svg" height="40"></code>
+ <code><img src="https://www.svgrepo.com/show/349419/javascript.svg" height="40"></code>
+ <code><img src="https://www.svgrepo.com/show/374016/python.svg" height="40"></code>
+ <code><img src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" height="40"></code>
+ <code><img src="https://www.svgrepo.com/show/374035/reactts.svg" height="40"></code>
+ <code><img src="https://www.svgrepo.com/show/355133/mysql.svg" height="40"></code>
+ <code><img src="https://www.svgrepo.com/show/353805/google-cloud.svg" height="40"></code>
+ <code><img src="https://www.svgrepo.com/show/452192/docker.svg" height="40"></code>
+ <code><img src="https://www.svgrepo.com/show/452129/vs-code.svg" height="40"></code>
 </div>
 
 ---
