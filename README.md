@@ -32,7 +32,7 @@ Let's learn or build something useful together.
 <div align="center">
 <a href="https://github.com/fajrCode">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fajrCode&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fajrCode&layout=compact&langs_count=10&theme=vue-dark"/>
+<!--   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fajrCode&layout=compact&langs_count=10&theme=vue-dark"/> -->
 </a>
 </div>
 
