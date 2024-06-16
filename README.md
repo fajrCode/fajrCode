@@ -18,12 +18,16 @@ Let's learn or build something useful together.
  <code><img src="https://www.svgrepo.com/show/349474/php.svg" height="40"></code>
  <code><img src="https://www.svgrepo.com/show/349419/javascript.svg" height="40"></code>
  <code><img src="https://www.svgrepo.com/show/374016/python.svg" height="40"></code>
+ <code><img src="https://www.svgrepo.com/show/353985/laravel.svg" height="40"></code>
  <code><img src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" height="40"></code>
+ <code><img src="https://www.svgrepo.com/show/508915/flask.svg" height="40"></code>
  <code><img src="https://www.svgrepo.com/show/374035/reactts.svg" height="40"></code>
  <code><img src="https://www.svgrepo.com/show/355133/mysql.svg" height="40"></code>
  <code><img src="https://www.svgrepo.com/show/353805/google-cloud.svg" height="40"></code>
  <code><img src="https://www.svgrepo.com/show/452192/docker.svg" height="40"></code>
  <code><img src="https://www.svgrepo.com/show/452129/vs-code.svg" height="40"></code>
+ <code><img src="https://www.svgrepo.com/show/530444/availability.svg" height="40"></code>
+ <code><img src="https://www.svgrepo.com/show/530439/api-interface.svg" height="40"></code>
 </div>
 
 ---
