@@ -1,4 +1,4 @@
-### Hi there, I'm Fajri Arvandi 👋
+### Hi there, I'm Fajri Arvandi 👋👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=fajrCode)
 [![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/fajri-arvandi/)
