@@ -8,10 +8,9 @@ Let's learn or build something useful together.
 
 ### 📋 Current Activity
 
-- 🎓 I’m Pursuing a Bachelor's Degree in Informatics Engineering;
-- 🚀 I'm a Graduate of Cloud Computing Cohort at [Bangkit Academy](https://grow.google/intl/id_id/bangkit/?tab=cloud-computing) Batch 2 2023;
-- 💻 I am working part-time remotely at [Braincore.id](https://braincore.id) as a "Business Process Automation (BPA) Engineer";
-- 🌱 I’m Currently focusing on Learn Website Development, especially Back-end Development;
+- 🎓 Pursuing a Bachelor's Degree in Informatics Engineering;
+- 💻 Working part-time remotely at [Braincore.id](https://braincore.id) as a "Business Process Automation (BPA) Engineer";
+- 🌱 Currently focusing on Learn Website Development, especially Back-end Development;
 
 <br>
 <div align="center">
