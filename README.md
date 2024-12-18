@@ -36,7 +36,7 @@ Let's learn or build something useful together.
 <div align="center">
 <a href="https://github.com/fajrCode">
   <img width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fajrCode&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=fajrCode&theme=vue-dark&hide_border=true&count_private=true"/>
+<!--   <img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=fajrCode&theme=vue-dark&hide_border=true&count_private=true"/> -->
  
   <!-- <img width="400em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fajrCode&theme=github_dark&utcOffset=8"/> -->
   <!-- <img width="400em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fajrCode&theme=github_dark"/> -->
