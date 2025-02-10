@@ -1,10 +1,9 @@
-### Hi there, I'm Fajri Arvandi 👋👋
+## Hi there, I'm Fajri Arvandi 👋👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=fajrCode)
 [![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/fajri-arvandi/)
 
-A 24-year-old muslim man that interested in technology, nice to meet you.
-Let's learn or build something useful together.
+Welcome to my GitHub profile! I am a passionate developer focused on creating impactful solutions. I enjoy working on backend development and am always eager to learn new technologies. Feel free to explore my repositories and reach out if you have any questions or collaboration ideas! Nice to meet you guys, let's learn or build something useful together. 🤗
 
 ### 📋 Current Activity
 
@@ -12,6 +11,7 @@ Let's learn or build something useful together.
 - 💻 Working part-time remotely at [Braincore.id](https://braincore.id) as a "Business Process Automation (BPA) Engineer";
 - 🌱 Currently focusing on Learn Website Development, especially Back-end Development;
 
+### 🔧 Tech & Tools
 <br>
 <div align="center">
  <code><img src="https://www.svgrepo.com/show/349474/php.svg" height="40"></code>
@@ -32,7 +32,6 @@ Let's learn or build something useful together.
 ---
 
 ### 📊 Github Stats
-
 <div align="center">
 <a href="https://github.com/fajrCode">
   <img width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fajrCode&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true&hide_border=true"/>
