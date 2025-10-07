@@ -20,7 +20,6 @@ Welcome to my GitHub profile! I am a passionate developer focused on creating im
  <code><img src="https://www.svgrepo.com/show/452192/docker.svg" height="40"></code>
  <code><img src="https://www.svgrepo.com/show/452129/vs-code.svg" height="40"></code>
  <code><img src="https://www.svgrepo.com/show/530444/availability.svg" height="40"></code>
- <code><img src="https://www.svgrepo.com/show/530439/api-interface.svg" height="40"></code>
 </div>
 
 ---
