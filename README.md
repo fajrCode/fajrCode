@@ -5,12 +5,6 @@
 
 Welcome to my GitHub profile! I am a passionate developer focused on creating impactful solutions. I enjoy working on backend development and am always eager to learn new technologies. Feel free to explore my repositories and reach out if you have any questions or collaboration ideas! Nice to meet you guys, let's learn or build something useful together. 🤗
 
-### 📋 Current Activity
-
-- 🎓 Pursuing a Bachelor's Degree in Informatics Engineering;
-- 💻 Working part-time remotely at [Braincore.id](https://braincore.id) as a "Business Process Automation (BPA) Engineer";
-- 🌱 Currently focusing on Learn Website Development, especially Back-end Development;
-
 ### 🔧 Tech & Tools
 <br>
 <div align="center">
